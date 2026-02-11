@@ -1,0 +1,17 @@
+.openapi-generator-ignore
+apis/AuthenticationApi.ts
+apis/ExplainabilityApi.ts
+apis/ProxyApi.ts
+apis/index.ts
+docs/AuthenticationApi.md
+docs/ExplainabilityApi.md
+docs/HTTPValidationError.md
+docs/LocationInner.md
+docs/ProxyApi.md
+docs/ValidationError.md
+index.ts
+models/HTTPValidationError.ts
+models/LocationInner.ts
+models/ValidationError.ts
+models/index.ts
+runtime.ts
